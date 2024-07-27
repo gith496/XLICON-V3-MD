@@ -29,7 +29,7 @@
     },
     "PREFIX": {
       "description": "Set Your Prefix Here",
-      "required": true,
+      "required": false,
       "value": "."
     },
     "BOT_NAME": {
